@@ -39,3 +39,9 @@ body {
     margin: 25px;
 }
 
+.parentDiv {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+}
+
